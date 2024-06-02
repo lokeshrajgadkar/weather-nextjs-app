@@ -5,7 +5,6 @@ import { log } from "console";
 import Image from "next/image";
 import { AiOutlineLoading3Quarters } from "react-icons/ai";
 
-//https://api.openweathermap.org/data/2.5/forecast?q=Nagpur&appid=8925a1f8d9ac164f026c57f6e3f023d2
 
 interface WeatherData {
   cod: string;
